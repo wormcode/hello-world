@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+I am matt
+
+this is the second  repository 
+
+I am an lazy coder
